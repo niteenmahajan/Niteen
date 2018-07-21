@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringBootCrudDemoExampleSessionfsctory
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: NITEEN
+Built-By: sai
 Implementation-Vendor-Id: org.springframework.samples.service.service
-Build-Jdk: 1.8.0_171
+Build-Jdk: 1.8.0_121
 Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCr
  udDemoExampleSessionfsctory/
 Created-By: Maven Integration for Eclipse
